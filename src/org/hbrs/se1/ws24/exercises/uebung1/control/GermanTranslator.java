@@ -3,14 +3,31 @@ package org.hbrs.se1.ws24.exercises.uebung1.control;
 public class GermanTranslator implements Translator {
 
 	public String date = "Okt/2024"; // Default-Wert
+	private String[] correctOutput = {
+			"eins",
+			"zwei",
+			"drei",
+			"vier",
+			"fünf",
+			"sechs",
+			"sieben",
+			"acht",
+			"neun",
+			"zehn"
+	};
 
 	/**
 	 * Methode zur Übersetzung einer Zahl in eine String-Repraesentation
 	 */
 	public String translateNumber( int number ) {
 		// [ihr Source Code aus Übung 1-2]
-
-		return "null";
+		// Eingaben 1 - 10 liefern korrekten Ergebnisse
+		if (number < 1 || number > 10) {
+			return "Übersetzung der Zahl " +
+					number +
+					" nicht möglich (Translator Version " + version + ")";
+		}
+		return correctOutput[number - 1];
 	}
 
 	/**
