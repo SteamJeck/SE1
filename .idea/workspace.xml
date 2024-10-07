@@ -54,6 +54,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Miscellaneous/Uebung01" />
       <recent name="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -69,7 +70,7 @@
       <workItem from="1727176958305" duration="1892000" />
       <workItem from="1727886708576" duration="6005000" />
       <workItem from="1728210211295" duration="7458000" />
-      <workItem from="1728283671181" duration="3377000" />
+      <workItem from="1728283671181" duration="5342000" />
     </task>
     <task id="LOCAL-00001" summary="1st Commit">
       <created>1728219324449</created>
@@ -85,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1728220872830</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1st Commit">
+      <created>1728287288205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728287288205</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
