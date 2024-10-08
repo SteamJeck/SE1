@@ -19,9 +19,7 @@ public class Client {
 			 Translator translator = TranslatorFactory.createGermanTranslator();
 			 String result = translator.translateNumber(aNumber);
 
-			 System.out.println("Das Ergebnis der Berechnung: " +
-					"[das Ergebnis an dieser Stelle]" );
-
+			 System.out.println("Das Ergebnis der Berechnung: " + result );
 		 }
 }
 
