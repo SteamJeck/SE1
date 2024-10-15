@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11b931b2-f8a2-4546-af99-1df1f0f211cc" name="Changes" comment="Next Commit">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -75,7 +75,13 @@
       <workItem from="1728210211295" duration="7458000" />
       <workItem from="1728283671181" duration="8863000" />
       <workItem from="1728316742472" duration="689000" />
-      <workItem from="1728371079105" duration="4326000" />
+      <workItem from="1728371079105" duration="5688000" />
+      <workItem from="1728406065336" duration="500000" />
+      <workItem from="1728641401257" duration="5228000" />
+      <workItem from="1728657902857" duration="7579000" />
+      <workItem from="1728823186810" duration="283000" />
+      <workItem from="1728830831425" duration="76000" />
+      <workItem from="1728978408438" duration="5764000" />
     </task>
     <task id="LOCAL-00001" summary="1st Commit">
       <created>1728219324449</created>
@@ -119,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1728385652305</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Next Commit">
+      <created>1728385719749</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728385719749</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,5 +142,9 @@
     <MESSAGE value="1st Commit" />
     <MESSAGE value="Next Commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Next Commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
